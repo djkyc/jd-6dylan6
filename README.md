@@ -1,6 +1,8 @@
 # jd-6dylan6
+https://github.com/6dylan6/jdpro
 
-6dylan6/jdpro 仓库分析与配置指南
+## 6dylan6/jdpro 仓库分析与配置指南
+
 目标
 在通过 Docker 部署的 Qinglong 面板中运行 6dylan6/jdpro 脚本时，确保：
 
